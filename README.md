@@ -29,4 +29,4 @@ Billplz API v3 using cURL
 
 # Example
 
-Please refer to specific file for example how to use the class. Any contribution are welcomed!
+simple design using bootstrap 4 alpha.. how to pass zand retrieve the value amount...
