@@ -1,14 +1,10 @@
 # Billplz API Class
-Billplz API v3 using cURL
-
-# Latest Version: 3.01
-# Last Update: 5 May 2017
+Billplz API v3 
 
 # Minimum System Requirement
 - PHP 5.5 or newer 
 
 # Features
-
 - Automatically detect mode (Production/Staging) based on API Key
 - Automatically create Collection ID if not created
 - Automatically choose Collection ID if not set
