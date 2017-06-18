@@ -1,5 +1,5 @@
 # Billplz API Class 
-Billplz API v3 y
+Billplz API v3 
 
 # Minimum System Requirement
 - PHP 5.5 or newer 
