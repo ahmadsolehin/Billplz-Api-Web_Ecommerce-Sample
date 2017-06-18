@@ -1,4 +1,4 @@
-# Billplz API Class yhtytd
+# Billplz API Class g
 Billplz API v3 
 
 # Minimum System Requirement
