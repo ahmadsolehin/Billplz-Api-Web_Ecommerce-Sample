@@ -32,3 +32,6 @@ simple design using bootstrap 4 alpha.. how to pass and retrieve the value amoun
 ![a](https://cloud.githubusercontent.com/assets/12325386/26009594/16ed2cf6-377c-11e7-94b0-5a939a399ed9.JPG) <br>
 ![a](https://cloud.githubusercontent.com/assets/12325386/26009614/2bfdbd2c-377c-11e7-841f-90ee643ad4ab.JPG)
 
+
+<li>Originally created and manipulated by ahmad solehin</li>
+<li>very simple code to use with</li>
